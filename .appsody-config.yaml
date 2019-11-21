@@ -1,0 +1,2 @@
+project-name: kabanero-microprofile
+stack: kabanero/java-microprofile:0.2
